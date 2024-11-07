@@ -5,3 +5,4 @@ Basically the idea is that it allows us to check out code (think taking a book o
 back to the rest of the repository. This allows us to all work at our own pace, collaborate and see edits being done over time.
 I set up a branch called 'test-branch' that I suggest we commit our edits/new code to before merging to the main, as this
 protects the project if anything gets messed up by accident.
+We're also able to make 'issues' and 'tag' edits with them, so we're all able to keep track of what we need to do/our individual tasks.
